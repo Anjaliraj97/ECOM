@@ -1,0 +1,33 @@
+.seller-signup {
+  width: 40%;
+  height: 1800px;
+  margin: 100px auto;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  border-radius: 10px;
+}
+.seller-signup h1 {
+  text-align: center;
+  font-weight: 500;
+  padding: 20px;
+  color: rgb(141, 90, 185);
+}
+.seller-signup .form {
+  margin: 0 auto;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: start;
+}
+
+.seller-signup .btn {
+  margin-top: 20px;
+  width: 100%;
+}
+.seller-signup p {
+  text-align: center;
+  margin: 0%;
+  width: 100%;
+}

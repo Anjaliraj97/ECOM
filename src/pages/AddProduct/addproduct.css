@@ -1,0 +1,19 @@
+.add-product h1 {
+  padding: 20px 70px;
+}
+.add-product .form {
+  width: 300px;
+  padding-left: 20px;
+  margin: 15px;
+}
+/* .upload-div .uploadbtn {
+  
+  margin-top: 50px; 
+} */
+.form .btns {
+  margin-top: 20px;
+}
+.add-product label {
+  /* padding-bottom: 12px; */
+  margin-top: 50px;
+}

@@ -1,0 +1,13 @@
+.add-category h1 {
+  padding: 20px 70px;
+}
+.add-category .form {
+  width: 300px;
+  margin: 15px;
+}
+.uploadbtn {
+  margin-top: 20px;
+}
+.add-category .form .input-box {
+  margin-top: 20px;
+}

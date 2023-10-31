@@ -1,0 +1,9 @@
+.add-subcategory h1 {
+  padding: 20px 70px;
+}
+.add-subcategory .form {
+  width: 300px;
+}
+.uploadbtn {
+  margin-top: 10px;
+}

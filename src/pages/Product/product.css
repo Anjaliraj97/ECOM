@@ -1,0 +1,22 @@
+.product {
+  display: flex;
+}
+
+.product-container {
+  padding: 20px;
+  width: 100%;
+}
+.product-container h1 {
+  font-size: 40px;
+}
+.product-btns {
+  display: flex;
+  justify-content: end;
+}
+.product-table {
+  margin-top: 40px;
+}
+.delete {
+  color: rgb(25, 25, 43);
+  cursor: pointer;
+}
